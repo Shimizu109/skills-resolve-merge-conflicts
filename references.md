@@ -1,4 +1,2 @@
-## References
-
-- Charlie Brown
-- Dana White
+# References
+* octocat 1 😈
